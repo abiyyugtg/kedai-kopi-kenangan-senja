@@ -163,11 +163,11 @@ body {
 }
 
 .about .row {
-  display: flex;
+  display:flex;
 }
 
 .about .row .about-img {
-  flex: 1 1 45rem;
+  flex: 1 1 3rem;
 }
 
 .about .row .about-img {
